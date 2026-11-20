@@ -14,4 +14,3 @@ II) Processing of ATAC-seq data
 III) Single Cell RNA-seq
     1. Preprocessing and generation of Seurat object
     2. Visualization of clustering
-
